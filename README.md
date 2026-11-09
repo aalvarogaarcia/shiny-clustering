@@ -3,6 +3,10 @@
 Póster del V Congreso y XVI Jornadas de Usuarios de R (San Cristóbal de La Laguna, 25 a 27 de
 noviembre de 2026).
 
+Autores: Álvaro García Muñoz (Departamento de Matemáticas, Estadística e Investigación
+Operativa, Universidad de La Laguna) y José M. Lorenzo-Salazar (Área de Genómica, ITER, Santa
+Cruz de Tenerife).
+
 **Abrir la aplicación:** https://aalvarogaarcia.github.io/shiny-clustering/
 
 La aplicación corre entera en el navegador. Es una exportación de
